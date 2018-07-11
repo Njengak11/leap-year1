@@ -1,11 +1,11 @@
 #Project Name
 :Leap- Year 1
 
-#Author:
+##Author:
 Njenga Karori
 
-#About:
+##About:
 This project tell the user if a year i either a leap year or not after inputing a certain year into a form
 
-#Technologies:
+##Technologies:
 html,css,javascript
